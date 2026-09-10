@@ -1,0 +1,2 @@
+# Task 6 uses Python standard library only.
+# Required Python version: 3.10+
